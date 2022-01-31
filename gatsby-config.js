@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `네스 호의 예티`,
+    title: `Yeti in Ness`,
     author: {
       name: `Sohee Kim`,
       summary: `서울에 사는, 데이터로 밥 먹는 것 이상에 관심 있는 물음표 살인마`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `soheekim911.github.io`,
+    siteUrl: `https://soheekim911.github.io`,
     social: {
       twitter: `miniezchilli`,
     },
