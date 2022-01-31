@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `네스 호의 예티`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Sohee Kim`,
+      summary: `서울에 사는, 데이터로 밥 먹는 것 이상에 관심 있는 물음표 살인마`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `soheekim911.github.io`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `miniezchilli`,
     },
   },
   plugins: [
